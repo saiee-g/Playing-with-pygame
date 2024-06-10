@@ -1,3 +1,6 @@
+# pygame
+Pygame is an open source python library which helps create multimedia applications. It can be used to easily create video games with python.
+
 # audioVisualizer
 Takes audio input and displays output as a sine wave.  
 Using pygame and pyaudio.
