@@ -8,7 +8,7 @@ pygame.display.set_caption("Box Game")
 
 screen = pygame.display.set_mode((screenWidth, screenHeight))
 
-player = pygame.Rect(((screenWidth-50)/2, (screenHeight-50)/2, 50, 50))
+player = pygame.Rect(((screenWidth-50)/2, (screenHeight-50)/2, 30, 30))
 
 run = True
 while run:
