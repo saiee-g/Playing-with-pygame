@@ -31,3 +31,12 @@ A simple two player game of tic tac toe using pygame.
 Click on the 3x3 grid to mark your move.
 Each player gets alternate turns.
 Press SPACE to restart the game.
+
+# voldy world
+Voldy world is a mini game inspired from the Harry Potter universe.
+The board is a 4x4 grid.
+The player, HARRY starts at the start position and can move UP, DOWN, LEFT or RIGHT with the use of arrow keys.
+The game is won if he reaches the block with the GOLDEN SNITCH.
+If HARRY visits the only block with VOLDY in it, he will be Avada kedavra-ed and game will be over.
+If HARRY visits one of the multiple blocks with DEMENTORS, he will recieve a dementor's kiss and the game will be over.
+Happy Playing! May you bring Griffindor Glory.
